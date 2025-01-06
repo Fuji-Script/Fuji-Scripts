@@ -7,14 +7,14 @@ var module = rise.registerModule(
   "Combines chat macro functionality with chat filter bypass."
 );
 
-// Settings for chat macro
+
 module.registerSetting("string", "Message", "Rise on Top!");
 module.registerSetting("boolean", "Repeat", false);
 module.registerSetting("boolean", "Bypass (MiniBlox)", false);
 module.registerSetting("boolean", "On Kill", false);
 module.registerSetting("number", "Delay (s)", 1, 0, 10, 0.1);
 
-// Settings for chat bypass
+
 module.registerSetting("boolean", "Enable Bypass", true);
 
 var lastMessageTime = 0;
