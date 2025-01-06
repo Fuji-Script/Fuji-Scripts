@@ -1,4 +1,4 @@
-//@ author Leo728
+//@ author Fuji@Leo728
 //@ version 1.0
 //@ description A script that bypass chat filters.
 var module = rise.registerModule("ChatBypass", "Gives you the right to say n1g/e® in hypixel. Freedom of Speech!!!!!! America!!!!")
