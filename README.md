@@ -8,11 +8,11 @@ Our global team of developers is dedicated to creating powerful, open-source scr
 <!-- SCRIPTS_NAVIGATION_START -->
 ## 📂 **Scripts Directory Navigation**
 
-**Last Updated**: 2025-01-06 12:24:21 UTC
+**Last Updated**: 2025-01-06 12:24:32 UTC
 
-- **[ChatBypass.js](scripts/ChatBypass.js)**: Last modified on 2025-01-06 12:24:16 UTC
-- **[velocityHylex.js](scripts/velocityHylex.js)**: Last modified on 2025-01-06 12:24:16 UTC
-- **[bedxray.js](scripts/bedxray.js)**: Last modified on 2025-01-06 12:24:16 UTC
+- **[ChatBypass.js](scripts/ChatBypass.js)**: Last modified on 2025-01-06 12:24:30 UTC
+- **[velocityHylex.js](scripts/velocityHylex.js)**: Last modified on 2025-01-06 12:24:30 UTC
+- **[bedxray.js](scripts/bedxray.js)**: Last modified on 2025-01-06 12:24:30 UTC
 
 <!-- SCRIPTS_NAVIGATION_END -->
 
