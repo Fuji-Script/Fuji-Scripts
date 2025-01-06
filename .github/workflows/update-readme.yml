@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate file navigation
         run: |
-          python generate_navigation.py
+          python .github/generate_navigation.py
 
       - name: Commit and push changes
         run: |

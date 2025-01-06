@@ -1,4 +1,4 @@
-![Banner](b.webp)
+![Banner](.github/b.webp)
 
 # 🌍 **We are Fuji Script**
 
