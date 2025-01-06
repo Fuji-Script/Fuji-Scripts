@@ -8,13 +8,13 @@ Our global team of developers is dedicated to creating powerful, open-source scr
 <!-- SCRIPTS_NAVIGATION_START -->
 ## 📂 **Scripts Directory Navigation**
 
-**Last Updated**: 2025-01-06 17:25:09 UTC
+**Last Updated**: 2025-01-06 17:25:19 UTC
 
-- **[SilentAura.js](scripts/SilentAura.js)**: Last modified on 2025-01-06 17:25:05 UTC
-- **[ChatBypass.js](scripts/ChatBypass.js)**: Last modified on 2025-01-06 17:25:05 UTC
-- **[velocityHylex.js](scripts/velocityHylex.js)**: Last modified on 2025-01-06 17:25:05 UTC
-- **[bedxray.js](scripts/bedxray.js)**: Last modified on 2025-01-06 17:25:05 UTC
-- **[chatMacro.js](scripts/chatMacro.js)**: Last modified on 2025-01-06 17:25:05 UTC
+- **[SilentAura.js](scripts/SilentAura.js)**: Last modified on 2025-01-06 17:25:17 UTC
+- **[ChatBypass.js](scripts/ChatBypass.js)**: Last modified on 2025-01-06 17:25:17 UTC
+- **[velocityHylex.js](scripts/velocityHylex.js)**: Last modified on 2025-01-06 17:25:17 UTC
+- **[bedxray.js](scripts/bedxray.js)**: Last modified on 2025-01-06 17:25:17 UTC
+- **[chatMacro.js](scripts/chatMacro.js)**: Last modified on 2025-01-06 17:25:17 UTC
 
 <!-- SCRIPTS_NAVIGATION_END -->
 
