@@ -8,15 +8,15 @@ Our global team of developers is dedicated to creating powerful, open-source scr
 <!-- SCRIPTS_NAVIGATION_START -->
 ## 📂 **Scripts Directory Navigation**
 
-**Last Updated**: 2025-01-08 16:29:56 UTC
+**Last Updated**: 2025-01-08 16:30:06 UTC
 
-- **[SilentAura.js](scripts/SilentAura.js)**: Last modified on 2025-01-08 16:29:51 UTC
-- **[ChatBypass.js](scripts/ChatBypass.js)**: Last modified on 2025-01-08 16:29:51 UTC
-- **[jetpackFly.js](scripts/jetpackFly.js)**: Last modified on 2025-01-08 16:29:51 UTC
-- **[velocityHylex.js](scripts/velocityHylex.js)**: Last modified on 2025-01-08 16:29:51 UTC
-- **[chestxray.js](scripts/chestxray.js)**: Last modified on 2025-01-08 16:29:51 UTC
-- **[bedxray.js](scripts/bedxray.js)**: Last modified on 2025-01-08 16:29:51 UTC
-- **[chatMacro.js](scripts/chatMacro.js)**: Last modified on 2025-01-08 16:29:51 UTC
+- **[SilentAura.js](scripts/SilentAura.js)**: Last modified on 2025-01-08 16:30:04 UTC
+- **[ChatBypass.js](scripts/ChatBypass.js)**: Last modified on 2025-01-08 16:30:04 UTC
+- **[jetpackFly.js](scripts/jetpackFly.js)**: Last modified on 2025-01-08 16:30:04 UTC
+- **[velocityHylex.js](scripts/velocityHylex.js)**: Last modified on 2025-01-08 16:30:04 UTC
+- **[chestxray.js](scripts/chestxray.js)**: Last modified on 2025-01-08 16:30:04 UTC
+- **[bedxray.js](scripts/bedxray.js)**: Last modified on 2025-01-08 16:30:04 UTC
+- **[chatMacro.js](scripts/chatMacro.js)**: Last modified on 2025-01-08 16:30:04 UTC
 
 <!-- SCRIPTS_NAVIGATION_END -->
 
